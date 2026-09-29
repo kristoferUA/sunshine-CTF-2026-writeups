@@ -23,3 +23,7 @@ Writeups prepared by [kristoferUA](https://github.com/kristoferUA) for SunshineC
 | [You Cut Me Off](you-cut-me-off-writeup/README.md) | forensics | Restoring PNG rows hidden by an incorrect image height. |
 
 The VM image used by **Ghost in the Thread 1** is stored separately; its writeup explains where to place it.
+
+## License
+
+The original writeups and solver code in this collection are available under the [MIT License](LICENSE). Files in `challenge/` were supplied with the tasks and are not covered by this license.
